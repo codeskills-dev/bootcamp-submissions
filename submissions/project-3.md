@@ -1,6 +1,6 @@
 # Project-3 submissions
 
-Here's a list of all the amazing submissions from our members at [Codeskills](https://codeskills.dev) who have completed this project. Feel free to add your submission if you've completed this project
+Here's a list of all the amazing submissions from our members at [Codeskills](https://codeskills.dev) who have completed this [project](https://github.com/codeskills-dev/bootcamp-starter/tree/master/projects/project-3). Feel free to add your submission if you've completed this project
 
 <!-- FORMAT -->
 <!--
