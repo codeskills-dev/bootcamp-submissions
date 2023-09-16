@@ -1,4 +1,5 @@
 # Welcome to Codeskills Bootcamp Submissions! 🚀
+![bootcamp-submissions](https://socialify.git.ci/codeskills-dev/bootcamp-submissions/image?forks=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Auto)
 
 Welcome to the Coding Bootcamp Submissions repository! This is where you'll submit your completed projects for review and feedback. Follow the steps below to contribute your work:
 
