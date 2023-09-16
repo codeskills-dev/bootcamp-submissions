@@ -1,6 +1,6 @@
 # Project-2 submissions
 
-Here's a list of all the amazing submissions of our members at [Codeskills](https://codeskills.dev) who have completed this project. Feel free to add your submission if you've completed this project
+Here's a list of all the amazing submissions from our members at [Codeskills](https://codeskills.dev) who have completed this project. Feel free to add your submission if you've completed this project
 
 <!-- FORMAT -->
 <!--
