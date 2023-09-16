@@ -4,6 +4,6 @@ Here's a list of all the amazing submissions of our members at [Codeskills](http
 
 <!-- FORMAT -->
 <!--
-- [username](https://github.com/username) - [project-name](link-to-project-branch)
+- [your-username](https://github.com/your-username) - [project-name](https://github.com/your-username/your-repo-name/tree/your-project-branch)
  -->
 <!-- CONTRIBUTORS -->
