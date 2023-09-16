@@ -10,9 +10,9 @@ Welcome to the Coding Bootcamp Submissions repository! This is where you'll subm
 
 - Create a Branch: Before making your submission, create a new branch in your forked repository for the project you're submitting. Use a clear and descriptive branch name.
 
-```sh
-git checkout -b project-1-submission
-```
+  ```sh
+  git checkout -b project-1-submission
+  ```
 
 - Make Your Submission: Update the project submissions file with your submission details.
   Example: For project-1 submission. Edit the [project-1.md](/submissions/project-1.md) file and add your submission details
