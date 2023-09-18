@@ -7,3 +7,5 @@ Here's a list of all the amazing submissions from our members at [Codeskills](ht
 - [your-username](https://github.com/your-username) - [project-name](https://github.com/your-username/your-repo-name/tree/your-project-branch)
  -->
 <!-- CONTRIBUTORS -->
+
+- [lordelogos](https://github.com/lordelogos) - [survey form project](https://github.com/lordelogos/bootcamp-starter/tree/project-1)
