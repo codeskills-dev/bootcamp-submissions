@@ -6,6 +6,11 @@ Welcome to the Coding Bootcamp Submissions repository! This is where you'll subm
 ### Submission Process
 
 - Fork the Starter Repo: If you haven't already, fork the [bootcamp-starter](https://github.com/codeskills-dev/bootcamp-starter) repository containing the project templates and resources.
+- Clone your forked repository to your local machine.
+
+  ```sh
+  git clone https://github.com/your-username/bootcamp-submissions.git
+  ```
 
 - Complete the Project: Work on one of the projects in your forked repository. Follow the project's instructions and guidelines provided.
 
